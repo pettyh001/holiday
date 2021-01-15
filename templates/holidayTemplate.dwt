@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+	
+<head>
+	
+<meta charset="utf-8">
+	
+<!-- TemplateBeginEditable name="doctitle" -->
+
+<title>Petty's Christmas Site</title>
+	
+<!-- TemplateEndEditable -->
+	
+<!-- TemplateBeginEditable name="head" -->
+	
+<!-- TemplateEndEditable -->
+	
+<link href="../styles/holidayStyles.css" rel="stylesheet" type="text/css">
+
+<br>
+</head>
+
+<body>
+<div id="wrapper">
+  
+	<div id="banner">
+    
+    <img src="../images/banner.png" width="1200" height="200" alt=""/>
+    
+    </div> <!-- End Banner -->
+    <div id="sideNav">Content for  id "sideNav" Goes Here</div>
+  
+	
+	
+	<div id="main">
+	  <h1> Welcome to Petty's Christmas Site!</h1>
+      
+    <img src="../images/present.png" width="250" height="189" alt=""/>
+      
+    <h2> About My Holiday</h2>
+      
+    <p> Christmas is a holiday that is celebrated across the world, and has its origins with the birth of Christ in Christianity. Over the years, it has evolved, and today, has become a holiday that, to many, means coming together and giving to one another.  Usually in the days leading up to Christmas, members of a family get together, listen to Christmas themed music and watch/read Christmas based media.  On the day of Christmas, the day usually starts with opening gifts left underneath a "Christmas tree," left by members of the family, or the elusive, "Santa Claus," for the children. </p>
+      
+    <img src="../images/cookies.png" width="250" height="234" alt=""/>
+      
+    <h2> My Special Holdiay Meaning </h2>
+      
+    <p> For me, Christmas has a ton of special memories traveling to visit relatives several hours away. Making cookies with my grandparents and  getting to open presents, hoping to get what I wanted for Christmas always excited me as a child, and the feeling of joy that I got when I got what I wanted was wonderful. </p>
+      
+    <img src="../images/stocking.png" width="250" height="378" alt=""/></div>
+	
+	</div> <!-- End Wrapper -->
+</body>
+</html>
